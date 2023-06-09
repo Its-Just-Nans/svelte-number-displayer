@@ -1,6 +1,6 @@
 {
     "name": "svelte-number-displayer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Svelte number displayer",
     "author": "n4n5 - n4n5.dev",
     "homepage": "https://github.com/Its-Just-Nans/svelte-number-displayer",
@@ -36,9 +36,5 @@
         "tslib": "^2.5.0",
         "@tsconfig/svelte": "^4.0.1",
         "typescript": "^5.0.3"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/hperrin/svelte-material-ui.git"
     }
 }

@@ -1,8 +1,6 @@
 # svelte-number-displayer
 
-Display animated number easily with Svelte.
-
-Check the [demo]()
+Display animated number easily with Svelte. Check the [demo](https://its-just-nans.github.io/svelte-number-displayer-demo) !
 
 ## Usage
 

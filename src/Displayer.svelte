@@ -4,7 +4,7 @@
     export let value: number = 100;
     export let timing: number = 5;
     export let defaultValue: number = 0;
-    export let showTimer: boolean = true;
+    export let showTimer: boolean = false;
     export let fnRound: (c: number) => number = Math.floor;
     export let easing: (c: number) => number = (n) => n;
     let valueDisplay = defaultValue;

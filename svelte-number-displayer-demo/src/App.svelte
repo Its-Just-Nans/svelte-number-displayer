@@ -53,8 +53,8 @@
             {/each}
         </select>
     </div>
-    <a href="https://github.com/Its-Just-Nans/svelte-number-displayer-demo" target="_blank">
-        <h5>Source code of the demo</h5>
+    <a href="https://github.com/Its-Just-Nans/svelte-number-displayer" target="_blank">
+        <h5>Source code</h5>
     </a>
 </main>
 

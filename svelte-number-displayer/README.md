@@ -1,4 +1,4 @@
-# svelte-number-displayer [![npm link](https://img.shields.io/npm/v/svelte-number-displayer)](https://www.npmjs.com/package/svelte-number-displayer) [![npm downloads](https://img.shields.io/npm/dt/svelte-number-displayer)](https://www.npmjs.com/package/svelte-number-displayer)
+# svelte-number-displayer
 
 Display animated number easily with Svelte.
 
